@@ -17,7 +17,8 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 </ul>
 
 ## Links
-### [How to display math equations in web](html/mathequations.html)
-### [How to blog on github](html/githubblog.html)
-### [Linux related stuff](html/linux.html)
-
+<ul class="simple">
+	<li> <a href="html/mathequations.html">How to display math equations in web</a></li>
+	<li> <a href="html/githubblog.html">How to blog on github</a></li>
+	<li> <a href="html/linux.html">Linux related stuff</a></li>
+</ul>

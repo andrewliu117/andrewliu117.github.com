@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>刘洪江的blog</title>
- <link href="http://username.github.com/atom.xml" rel="self"/>
- <link href="http://username.github.com"/>
- <updated>2012-08-30T17:27:36+08:00</updated>
- <id>http://username.github.com</id>
+ <title>猪猫的blog</title>
+ <link href="http://andrewliu117.github.com/atom.xml" rel="self"/>
+ <link href="http://andrewliu117.github.com"/>
+ <updated>2012-08-30T19:31:21+08:00</updated>
+ <id>http://andrewliu117.github.com</id>
  <author>
-   <name>liuhongjiang</name>
+   <name>andrew liu</name>
    <email>andrew.liu@qq.com</email>
  </author>
 
  
  <entry>
    <title>Math</title>
-   <link href="http://username.github.com/beginner/2012/08/30/math"/>
+   <link href="http://andrewliu117.github.com/beginner/2012/08/30/math"/>
    <updated>2012-08-30T00:00:00+08:00</updated>
-   <id>http://username.github.com/beginner/2012/08/30/math</id>
+   <id>http://andrewliu117.github.com/beginner/2012/08/30/math</id>
    <content type="html">&lt;p&gt;&lt;code&gt;(a,b]={x in RR | a &amp;lt; x &amp;lt;= b}&lt;/code&gt; &lt;code&gt;sum_(i=1)^n i^3=((n(n+1))/2)^2&lt;/code&gt; `\epsilon \sum \sum_{a}^{b}`&lt;/p&gt;
 
 &lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we&amp;#8217;ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
-&lt;h2 id='id1'&gt;刘洪&lt;/h2&gt;
+&lt;h2 id='id11'&gt;刘洪&lt;/h2&gt;
 
 &lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
 
@@ -343,9 +343,9 @@ tags : [how-to, jekyll]
  
  <entry>
    <title>First</title>
-   <link href="http://username.github.com/beginner/2012/08/30/first"/>
+   <link href="http://andrewliu117.github.com/beginner/2012/08/30/first"/>
    <updated>2012-08-30T00:00:00+08:00</updated>
-   <id>http://username.github.com/beginner/2012/08/30/first</id>
+   <id>http://andrewliu117.github.com/beginner/2012/08/30/first</id>
    <content type="html">&lt;p&gt;liuhongjiang&lt;/p&gt;
 
 &lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we&amp;#8217;ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
@@ -670,9 +670,9 @@ tags : [how-to, jekyll]
  
  <entry>
    <title>Jekyll Introduction</title>
-   <link href="http://username.github.com/lessons/2011/12/29/jekyll-introduction"/>
+   <link href="http://andrewliu117.github.com/lessons/2011/12/29/jekyll-introduction"/>
    <updated>2011-12-29T00:00:00+08:00</updated>
-   <id>http://username.github.com/lessons/2011/12/29/jekyll-introduction</id>
+   <id>http://andrewliu117.github.com/lessons/2011/12/29/jekyll-introduction</id>
    <content type="html">&lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we&amp;#8217;ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
 &lt;h2 id='overview'&gt;Overview&lt;/h2&gt;

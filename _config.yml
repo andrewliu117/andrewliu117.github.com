@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : 猪猫的blog
-tagline: 刘洪江
+tagline: 
 author :
   name : andrew liu
   email : andrew.liu@qq.com

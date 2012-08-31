@@ -4,7 +4,7 @@
  <title>猪猫的blog</title>
  <link href="http://andrewliu117.github.com/atom.xml" rel="self"/>
  <link href="http://andrewliu117.github.com"/>
- <updated>2012-08-30T19:31:21+08:00</updated>
+ <updated>2012-08-31T14:34:59+08:00</updated>
  <id>http://andrewliu117.github.com</id>
  <author>
    <name>andrew liu</name>
@@ -13,15 +13,27 @@
 
  
  <entry>
+   <title>写在最开始</title>
+   <link href="http://andrewliu117.github.com/2012/08/31/write-at-the-begining"/>
+   <updated>2012-08-31T00:00:00+08:00</updated>
+   <id>http://andrewliu117.github.com/2012/08/31/write-at-the-begining</id>
+   <content type="html">&lt;h1 id='blog'&gt;今天是值得纪念的日志。blog简单搭建成功&lt;/h1&gt;</content>
+ </entry>
+ 
+ <entry>
    <title>Math</title>
    <link href="http://andrewliu117.github.com/beginner/2012/08/30/math"/>
    <updated>2012-08-30T00:00:00+08:00</updated>
    <id>http://andrewliu117.github.com/beginner/2012/08/30/math</id>
-   <content type="html">&lt;p&gt;&lt;code&gt;(a,b]={x in RR | a &amp;lt; x &amp;lt;= b}&lt;/code&gt; &lt;code&gt;sum_(i=1)^n i^3=((n(n+1))/2)^2&lt;/code&gt; `\epsilon \sum \sum_{a}^{b}`&lt;/p&gt;
+   <content type="html">&lt;p&gt;`(a,b]={x in RR | a &amp;lt; x &amp;lt;= b}`&lt;/p&gt;
+
+&lt;p&gt;`sum_(i=1)^n i^3=((n(n+1))/2)^2`&lt;/p&gt;
+
+&lt;p&gt;`\epsilon \sum \sum_{a}^{b}`&lt;/p&gt;
 
 &lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we&amp;#8217;ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
-&lt;h2 id='id11'&gt;刘洪&lt;/h2&gt;
+&lt;h2 id='id24'&gt;刘洪&lt;/h2&gt;
 
 &lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
 

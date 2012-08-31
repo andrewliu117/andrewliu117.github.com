@@ -8,6 +8,7 @@ http://andrewliu117.github.com/pages.html
 http://andrewliu117.github.com/atom.xml
 http://andrewliu117.github.com/index.md.old
 
+http://andrewliu117.github.com/2012/08/31/write-at-the-begining
 http://andrewliu117.github.com/beginner/2012/08/30/math
 http://andrewliu117.github.com/beginner/2012/08/30/first
 http://andrewliu117.github.com/lessons/2011/12/29/jekyll-introduction

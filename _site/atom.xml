@@ -4,7 +4,7 @@
  <title>猪猫的blog</title>
  <link href="http://andrewliu117.github.com/atom.xml" rel="self"/>
  <link href="http://andrewliu117.github.com"/>
- <updated>2012-08-31T14:43:40+08:00</updated>
+ <updated>2012-09-03T13:24:43+08:00</updated>
  <id>http://andrewliu117.github.com</id>
  <author>
    <name>andrew liu</name>
@@ -13,11 +13,23 @@
 
  
  <entry>
-   <title>写在最开始</title>
-   <link href="http://andrewliu117.github.com/2012/08/31/write-at-the-begining"/>
+   <title>master method</title>
+   <link href="http://andrewliu117.github.com/2012/09/03/master-method"/>
+   <updated>2012-09-03T00:00:00+08:00</updated>
+   <id>http://andrewliu117.github.com/2012/09/03/master-method</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>使用BFGS实现最大熵模型</title>
+   <link href="http://andrewliu117.github.com/2012/08/31/max-entropy-using-bfgs"/>
    <updated>2012-08-31T00:00:00+08:00</updated>
-   <id>http://andrewliu117.github.com/2012/08/31/write-at-the-begining</id>
-   <content type="html">&lt;h1 id='blog'&gt;今天是值得纪念的日志。blog简单搭建成功&lt;/h1&gt;</content>
+   <id>http://andrewliu117.github.com/2012/08/31/max-entropy-using-bfgs</id>
+   <content type="html">&lt;h3 id='bfgs'&gt;最大熵模型BFGS&lt;/h3&gt;
+
+&lt;p&gt;本文参考了李航的《统计学校方法》第6章P92&lt;/p&gt;
+
+&lt;p&gt;算法描述： 输入：特征函数 `f_1` , `f_{2}` ,…`f_{n}`; 经验分布函数`widetilde{P}(x,y)`，目标函数`f(w)`，梯度函数`g(x)=\bigtriangledown f(w)`，精度要求`\varepsilon `;&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -33,7 +45,7 @@
 
 &lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we&amp;#8217;ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
-&lt;h2 id='id37'&gt;刘洪&lt;/h2&gt;
+&lt;h2 id='id97'&gt;刘洪&lt;/h2&gt;
 
 &lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
 
